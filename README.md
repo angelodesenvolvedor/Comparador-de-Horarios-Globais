@@ -12,4 +12,7 @@
 
 ## 👷 Autor
 
-* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor]()  
+* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor]()
+
+## 📄 Licença
+* Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md]().  
