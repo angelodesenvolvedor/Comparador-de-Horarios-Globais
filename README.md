@@ -1,5 +1,5 @@
 ## Comparador de Horários Globais
-* O Comparador de Horários Globais é uma plataforma online projetada para simplificar a comparação de fusos horários entre países ao redor do mundo. Com uma interface amigável e acessível, os usuários podem facilmente selecionar dois países distintos e visualizar os horários atuais em cada localidade. 
+* O Comparador de Horários Globais foi projetada para simplificar a comparação de fusos horários entre países ao redor do mundo. Com uma interface amigável e acessível, os usuários podem facilmente selecionar dois países distintos e visualizar os horários atuais em cada localidade. 
 
 ## 🔥 Introdução:
 * O Comparador de Horários Globais é uma aplicação web que permite aos usuários comparar facilmente os horários entre diferentes países em todo o mundo. Os usuários podem selecionar dois países diferentes e visualizar os horários atuais em cada país, facilitando a coordenação de eventos, reuniões e comunicações em diferentes fusos horários.
