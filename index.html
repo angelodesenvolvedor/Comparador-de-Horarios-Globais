@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Comparador de Horários entre Países</title>
+<link rel="shortcut icon" href="./image/images.png" type="image/x-icon">
+<link rel="stylesheet" href="./css/styles.css">
+
+</head>
+<body>
+<div class="container">
+  <h2>Comparador de Horários entre Países</h2>
+  <label for="country1">País 1:</label>
+  <select id="country1">
+    <option value="">Selecione</option>
+    <option value="Brazil">Brasil</option>
+    <option value="United States">Estados Unidos</option>
+    <option value="United Kingdom">Reino Unido</option>
+    <option value="China">China</option>
+    <option value="India">Índia</option>
+    <!-- Adicione mais opções de países conforme necessário -->
+  </select>
+  <label for="country2">País 2:</label>
+  <select id="country2">
+    <option value="">Selecione</option>
+    <option value="Brazil">Brasil</option>
+    <option value="United States">Estados Unidos</option>
+    <option value="United Kingdom">Reino Unido</option>
+    <option value="China">China</option>
+    <option value="India">Índia</option>
+    <!-- Adicione mais opções de países conforme necessário -->
+  </select>
+  <button onclick="compareTimezones()">Comparar</button>
+  <p id="result"></p>
+</div>
+<script src="./js/script.js"></script>
+</body>
+</html>
