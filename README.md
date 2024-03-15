@@ -12,7 +12,7 @@
 
 ## 👷 Autor
 
-* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor]()
+* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
 * Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Comparador-de-Horarios-Globais?tab=MIT-1-ov-file).  
