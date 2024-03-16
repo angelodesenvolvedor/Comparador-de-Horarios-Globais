@@ -1,3 +1,5 @@
+![image](https://github.com/angelodesenvolvedor/Comparador-de-Horarios-Globais/assets/98216100/3b07312b-500b-402d-91a4-eb1b85c6b3eb)
+
 ## Comparador de Horários Globais
 * O Comparador de Horários Globais foi projetada para simplificar a comparação de fusos horários entre países ao redor do mundo. Com uma interface amigável e acessível, os usuários podem facilmente selecionar dois países distintos e visualizar os horários atuais em cada localidade. 
 
